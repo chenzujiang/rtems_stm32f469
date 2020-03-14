@@ -1,0 +1,32 @@
+stm32f4xxgui_rel-lv_hal_tick.o: \
+ ../../../../../../../../rtems/c/src/lib/libbsp/arm/stm32f4xx/littlevGL/lvgl-5.1/lv_hal/lv_hal_tick.c \
+ ../../../../../../../../rtems/c/src/lib/libbsp/arm/stm32f4xx/littlevGL/lvgl-5.1/lv_hal/lv_hal_tick.h \
+ /home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include/stdint.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/stdint.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/_default_types.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/features.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_intsup.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_stdint.h \
+ /home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include/stdbool.h \
+ /home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include/stddef.h \
+ ../../../../../../../../rtems/c/src/lib/libbsp/arm/stm32f4xx/littlevGL/lvgl-5.1/lv_hal/../../lv_conf.h
+
+../../../../../../../../rtems/c/src/lib/libbsp/arm/stm32f4xx/littlevGL/lvgl-5.1/lv_hal/lv_hal_tick.h:
+
+/home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include/stdint.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/stdint.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/_default_types.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/features.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_intsup.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_stdint.h:
+
+/home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include/stdbool.h:
+
+/home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include/stddef.h:
+
+../../../../../../../../rtems/c/src/lib/libbsp/arm/stm32f4xx/littlevGL/lvgl-5.1/lv_hal/../../lv_conf.h:

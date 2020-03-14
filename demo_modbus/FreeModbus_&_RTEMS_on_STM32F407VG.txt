@@ -1,0 +1,10 @@
+FreeModbus & RTEMS on STM32F407VG test project
+
+Modbus Parameter£º
+* Modbus RTU 9600-8-E-1
+* Slave ID£º1
+* Holding address: start at 1000 with 4 regs
+
+Hardware£º
+USART3:PC10 PC11
+LED:PD12

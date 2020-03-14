@@ -1,0 +1,125 @@
+src/libscore_a-watchdogremove.o: \
+ ../../../../../../rtems/c/src/../../cpukit/score/src/watchdogremove.c \
+ ../config.h \
+ ../../cpukit/../../../stm32f4xx/lib/include/rtems/score/watchdogimpl.h \
+ ../../cpukit/../../../stm32f4xx/lib/include/rtems/score/watchdog.h \
+ ../../cpukit/../../../stm32f4xx/lib/include/rtems/score/object.h \
+ ../../cpukit/../../../stm32f4xx/lib/include/rtems/score/basedefs.h \
+ ../../cpukit/../../../stm32f4xx/lib/include/rtems/score/cpuopts.h \
+ /home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include/stddef.h \
+ /home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include/stdbool.h \
+ /home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include/stdint.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/stdint.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/_default_types.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/features.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_intsup.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_stdint.h \
+ /home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include-fixed/limits.h \
+ /home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include-fixed/syslimits.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/limits.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/syslimits.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/string.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/_ansi.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/newlib.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/config.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/ieeefp.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/reent.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/_ansi.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_types.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/_types.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/lock.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/cdefs.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/string.h \
+ ../../cpukit/../../../stm32f4xx/lib/include/rtems/score/cpu.h \
+ ../../cpukit/../../../stm32f4xx/lib/include/rtems/score/types.h \
+ ../../cpukit/../../../stm32f4xx/lib/include/rtems/score/arm.h \
+ ../../cpukit/../../../stm32f4xx/lib/include/rtems/score/chain.h \
+ ../../cpukit/../../../stm32f4xx/lib/include/rtems/score/assert.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/assert.h \
+ ../../cpukit/../../../stm32f4xx/lib/include/rtems/score/chainimpl.h \
+ ../../cpukit/../../../stm32f4xx/lib/include/rtems/score/address.h \
+ ../../cpukit/../../../stm32f4xx/lib/include/rtems/score/isrlock.h \
+ ../../cpukit/../../../stm32f4xx/lib/include/rtems/score/isrlevel.h \
+ ../../cpukit/../../../stm32f4xx/lib/include/rtems/score/smplock.h
+
+../config.h:
+
+../../cpukit/../../../stm32f4xx/lib/include/rtems/score/watchdogimpl.h:
+
+../../cpukit/../../../stm32f4xx/lib/include/rtems/score/watchdog.h:
+
+../../cpukit/../../../stm32f4xx/lib/include/rtems/score/object.h:
+
+../../cpukit/../../../stm32f4xx/lib/include/rtems/score/basedefs.h:
+
+../../cpukit/../../../stm32f4xx/lib/include/rtems/score/cpuopts.h:
+
+/home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include/stddef.h:
+
+/home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include/stdbool.h:
+
+/home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include/stdint.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/stdint.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/_default_types.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/features.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_intsup.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_stdint.h:
+
+/home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include-fixed/limits.h:
+
+/home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include-fixed/syslimits.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/limits.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/syslimits.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/string.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/_ansi.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/newlib.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/config.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/ieeefp.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/reent.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/_ansi.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_types.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/_types.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/lock.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/cdefs.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/string.h:
+
+../../cpukit/../../../stm32f4xx/lib/include/rtems/score/cpu.h:
+
+../../cpukit/../../../stm32f4xx/lib/include/rtems/score/types.h:
+
+../../cpukit/../../../stm32f4xx/lib/include/rtems/score/arm.h:
+
+../../cpukit/../../../stm32f4xx/lib/include/rtems/score/chain.h:
+
+../../cpukit/../../../stm32f4xx/lib/include/rtems/score/assert.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/assert.h:
+
+../../cpukit/../../../stm32f4xx/lib/include/rtems/score/chainimpl.h:
+
+../../cpukit/../../../stm32f4xx/lib/include/rtems/score/address.h:
+
+../../cpukit/../../../stm32f4xx/lib/include/rtems/score/isrlock.h:
+
+../../cpukit/../../../stm32f4xx/lib/include/rtems/score/isrlevel.h:
+
+../../cpukit/../../../stm32f4xx/lib/include/rtems/score/smplock.h:

@@ -1,0 +1,10 @@
+src/libcsupport_a-putk.o: \
+ ../../../../../../rtems/c/src/../../cpukit/libcsupport/src/putk.c \
+ ../config.h ../../cpukit/../../../stm32f4xx/lib/include/rtems/bspIo.h \
+ /home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include/stdarg.h
+
+../config.h:
+
+../../cpukit/../../../stm32f4xx/lib/include/rtems/bspIo.h:
+
+/home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include/stdarg.h:

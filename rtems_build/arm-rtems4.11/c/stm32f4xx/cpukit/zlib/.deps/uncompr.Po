@@ -1,0 +1,64 @@
+uncompr.o: ../../../../../../rtems/c/src/../../cpukit/zlib/uncompr.c \
+ ../../../../../../rtems/c/src/../../cpukit/zlib/zlib.h \
+ ../../cpukit/../../../stm32f4xx/lib/include/zconf.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/types.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/_ansi.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/newlib.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/config.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/ieeefp.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/features.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/_types.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/_default_types.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_types.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/lock.h \
+ /home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include/stddef.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_stdint.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/types.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/sched.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_timespec.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/cpuset.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/cdefs.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/unistd.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/unistd.h
+
+../../../../../../rtems/c/src/../../cpukit/zlib/zlib.h:
+
+../../cpukit/../../../stm32f4xx/lib/include/zconf.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/types.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/_ansi.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/newlib.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/config.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/ieeefp.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/features.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/_types.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/_default_types.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_types.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/lock.h:
+
+/home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include/stddef.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_stdint.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/types.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/sched.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_timespec.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/cpuset.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/cdefs.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/unistd.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/unistd.h:

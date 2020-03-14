@@ -1,0 +1,18 @@
+#
+# pkg-config support file for RTEMS BSP stm32f4xx
+#
+# Warning: This stuff is experimental and may be changed at any time.
+#
+prefix=/home/develop/smbshare/rtems-work/rtems_build/../rtems_stm32f4xx
+exec_prefix=/home/develop/smbshare/rtems-work/rtems_build/../rtems_stm32f4xx/arm-rtems4.11
+libdir=${exec_prefix}/stm32f4xx/lib
+includedir=${exec_prefix}/stm32f4xx/lib/include
+
+CFLAGS=-march=armv7-m -mthumb -mtune=cortex-m4 -O2 -g -fdata-sections -ffunction-sections -Wall -Wmissing-prototypes -Wimplicit-function-declaration -Wstrict-prototypes -Wnested-externs
+RTEMS_BSP=stm32f4xx
+
+Name: arm-rtems4.11-stm32f4xx
+Version: 4.10.99.0
+Description: RTEMS BSP stm32f4xx
+Libs:
+Cflags: -qrtems -B${exec_prefix}/lib/ -B${libdir}/ --specs bsp_specs ${CFLAGS}

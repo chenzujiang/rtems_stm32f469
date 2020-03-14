@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurations>
+<configuration id="0.501200356">
+<option id="configure" value="configure"/>
+<option id="configdir" value=""/>
+<option id="cache-file" value=""/>
+<option id="help" value="false"/>
+<option id="no-create" value="false"/>
+<option id="quiet" value="false"/>
+<option id="version" value="false"/>
+<option id="host" value=""/>
+<option id="build" value=""/>
+<option id="target" value="arm-rtems4.11"/>
+<option id="prefix" value="/home/develop/smbshare/rtems-work/rtems"/>
+<option id="exec-prefix" value=""/>
+<option id="libdir" value=""/>
+<option id="bindir" value=""/>
+<option id="sbindir" value=""/>
+<option id="includedir" value=""/>
+<option id="datadir" value=""/>
+<option id="sysconfdir" value=""/>
+<option id="infodir" value=""/>
+<option id="mandir" value=""/>
+<option id="srcdir" value=""/>
+<option id="localstatedir" value=""/>
+<option id="sharedstatedir" value=""/>
+<option id="libexecdir" value=""/>
+<option id="oldincludedir" value=""/>
+<option id="program-prefix" value=""/>
+<option id="program-suffix" value=""/>
+<option id="program-transform-name" value=""/>
+<option id="enable-maintainer-mode" value="false"/>
+<flag id="CFLAGS" value="CFLAGS|CXXFLAGS">
+<flagvalue id="cflags-debug" value="false"/>
+<flagvalue id="cflags-gprof" value="false"/>
+<flagvalue id="cflags-gcov" value="false"/>
+</flag>
+<option id="user" value="--disable-maintainer-mode --disable-multiprocessing --enable-posix --enable-networking --enable-cxx --enable-tests=samples --enable-rtems-debug --disable-multilib --disable-paravirt --disable-drvmgr --disable-docs --enable-rtemsbsp=stm32f4xx STM32F4XX_FAMILY_STM32F469_479xx=1 STM32F4XX_HSE_OSCILLATOR=8000000 STM32F4XX_ENABLE_USART_3=1 STM32F4XX_ENABLE_USART_6=1 STM32F4XX_ENABLE_LED_1=1 STM32F4XX_ENABLE_LED_2=1 STM32F4XX_ENABLE_LED_3=1 STM32F4XX_ENABLE_LED_4=1 STM32F4XX_ENABLE_I2C1=1 STM32F4XX_ENABLE_EXTI0=1 ARM_MULTILIB_ARCH_V7M=1"/>
+<option id="autogen" value="autogen.sh"/>
+<option id="autogenOpts" value=""/>
+</configuration>
+</configurations>

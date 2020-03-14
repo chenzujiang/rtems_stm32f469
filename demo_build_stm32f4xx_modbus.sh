@@ -1,0 +1,1 @@
+../rtems/configure --prefix=`pwd`/../rtems_stm32f4xx --target=arm-rtems4.11 --disable-maintainer-mode --disable-multiprocessing --disable-posix --disable-networking --disable-cxx --disable-tests --disable-rtems-debug --disable-multilib --disable-paravirt --disable-drvmgr --disable-docs --enable-rtemsbsp=stm32f4xx STM32F4XX_FAMILY_STM32F40_41xxx=1 STM32F4XX_HSE_OSCILLATOR=8000000

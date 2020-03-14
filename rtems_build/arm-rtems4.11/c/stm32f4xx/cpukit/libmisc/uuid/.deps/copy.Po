@@ -1,0 +1,101 @@
+uuid/copy.o: \
+ ../../../../../../rtems/c/src/../../cpukit/libmisc/uuid/copy.c \
+ ../config.h \
+ ../../../../../../rtems/c/src/../../cpukit/libmisc/uuid/uuidP.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/inttypes.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/newlib.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/config.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/ieeefp.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/features.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_intsup.h \
+ /home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include/stdint.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/stdint.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/_default_types.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_stdint.h \
+ /home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include/stddef.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/types.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/_ansi.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/_types.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_types.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/lock.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/types.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/sched.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_timespec.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/cpuset.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/cdefs.h \
+ ../../../../../../rtems/c/src/../../cpukit/libmisc/uuid/uuid.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/time.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_timeval.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/timespec.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/time.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/_ansi.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/reent.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/time.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/signal.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/signal.h
+
+../config.h:
+
+../../../../../../rtems/c/src/../../cpukit/libmisc/uuid/uuidP.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/inttypes.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/newlib.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/config.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/ieeefp.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/features.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_intsup.h:
+
+/home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include/stdint.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/stdint.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/_default_types.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_stdint.h:
+
+/home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include/stddef.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/types.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/_ansi.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/_types.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_types.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/lock.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/types.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/sched.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_timespec.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/cpuset.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/cdefs.h:
+
+../../../../../../rtems/c/src/../../cpukit/libmisc/uuid/uuid.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/time.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_timeval.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/timespec.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/time.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/_ansi.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/reent.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/time.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/signal.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/signal.h:

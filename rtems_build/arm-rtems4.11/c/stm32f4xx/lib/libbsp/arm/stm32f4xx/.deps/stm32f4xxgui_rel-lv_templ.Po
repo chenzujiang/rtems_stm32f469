@@ -1,0 +1,2 @@
+stm32f4xxgui_rel-lv_templ.o: \
+ ../../../../../../../../rtems/c/src/lib/libbsp/arm/stm32f4xx/littlevGL/lvgl-5.1/lv_misc/lv_templ.c

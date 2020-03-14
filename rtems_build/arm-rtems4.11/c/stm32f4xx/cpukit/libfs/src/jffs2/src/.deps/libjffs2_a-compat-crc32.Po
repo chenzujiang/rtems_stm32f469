@@ -1,0 +1,29 @@
+src/jffs2/src/libjffs2_a-compat-crc32.o: \
+ ../../../../../../rtems/c/src/../../cpukit/libfs/src/jffs2/src/compat-crc32.c \
+ ../../../../../../rtems/c/src/../../cpukit/libfs/src/jffs2/include/cyg/crc/crc.h \
+ ../../../../../../rtems/c/src/../../cpukit/libfs/src/jffs2/include/cyg/infra/cyg_type.h \
+ /home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include/stddef.h \
+ /home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include/stdint.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/stdint.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/_default_types.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/features.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_intsup.h \
+ /home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_stdint.h
+
+../../../../../../rtems/c/src/../../cpukit/libfs/src/jffs2/include/cyg/crc/crc.h:
+
+../../../../../../rtems/c/src/../../cpukit/libfs/src/jffs2/include/cyg/infra/cyg_type.h:
+
+/home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include/stddef.h:
+
+/home/develop/bin/arm-rtems4.11/lib/gcc/arm-rtems4.11/4.9.3/include/stdint.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/stdint.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/machine/_default_types.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/features.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_intsup.h:
+
+/home/develop/bin/arm-rtems4.11/arm-rtems4.11/include/sys/_stdint.h:

@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+environment/project/0.1987019462/PATH/delimiter=\:
+environment/project/0.1987019462/PATH/operation=append
+environment/project/0.1987019462/PATH/value=/home/develop/bin/arm-rtems4.11/bin\:${PATH}
+environment/project/0.1987019462/append=true
+environment/project/0.1987019462/appendContributed=true
+environment/project/0.501200356/PATH/delimiter=\:
+environment/project/0.501200356/PATH/operation=append
+environment/project/0.501200356/PATH/value=/home/develop/bin/arm-rtems4.11/bin\:${PATH}
+environment/project/0.501200356/append=true
+environment/project/0.501200356/appendContributed=false
+environment/project/0.726092750/PATH/delimiter=\:
+environment/project/0.726092750/PATH/operation=append
+environment/project/0.726092750/PATH/value=/home/develop/bin/arm-rtems4.11/bin\:${PATH}
+environment/project/0.726092750/append=true
+environment/project/0.726092750/appendContributed=false

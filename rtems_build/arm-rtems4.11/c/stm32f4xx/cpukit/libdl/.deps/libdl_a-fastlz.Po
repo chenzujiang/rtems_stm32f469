@@ -1,0 +1,5 @@
+libdl_a-fastlz.o: \
+ ../../../../../../rtems/c/src/../../cpukit/libdl/fastlz.c \
+ ../../../../../../rtems/c/src/../../cpukit/libdl/fastlz.c
+
+../../../../../../rtems/c/src/../../cpukit/libdl/fastlz.c:

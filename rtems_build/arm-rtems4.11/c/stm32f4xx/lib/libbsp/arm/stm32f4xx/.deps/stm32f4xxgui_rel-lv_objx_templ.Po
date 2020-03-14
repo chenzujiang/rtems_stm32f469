@@ -1,0 +1,5 @@
+stm32f4xxgui_rel-lv_objx_templ.o: \
+ ../../../../../../../../rtems/c/src/lib/libbsp/arm/stm32f4xx/littlevGL/lvgl-5.1/lv_objx/lv_objx_templ.c \
+ ../../../../../../../../rtems/c/src/lib/libbsp/arm/stm32f4xx/littlevGL/lvgl-5.1/lv_objx/../../lv_conf.h
+
+../../../../../../../../rtems/c/src/lib/libbsp/arm/stm32f4xx/littlevGL/lvgl-5.1/lv_objx/../../lv_conf.h:
